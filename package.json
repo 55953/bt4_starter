@@ -1,0 +1,35 @@
+{
+  "name": "bootstrap4_starter",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 Custom theme development starter project",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/55953/bt4_starter.git"
+  },
+  "keywords": [
+    "bootstrap4",
+    "bootstrap4_theme"
+  ],
+  "author": "55953",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/55953/bt4_starter/issues"
+  },
+  "homepage": "https://github.com/55953/bt4_starter#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  }
+}
