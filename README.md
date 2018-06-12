@@ -32,7 +32,7 @@ Nothing more required, you are set to start development
 ````bash
 npm run gulp
 `````
-2.Node live-server \ Install live-server if you don't have it or skip if you have it installed
+2. Node live-server \ Install live-server if you don't have it or skip if you have it installed
 ````bash
 npm i -g live-server
 live-server
